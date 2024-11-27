@@ -568,7 +568,7 @@ class instaBot:
 
 
 
-id1 = instaBot('__sr.mdi', '1378dbdmrs1128')
+id1 = instaBot('__sr.mdi', '************')
 id1.login()
 
 #id1.unfollow_spampages_from_a_txtfile(20,'C:\\Users\\asus\\Desktop\\Instagram Bot\\sarafallowinglist.txt')
@@ -587,7 +587,7 @@ id1.Quit()
 
 
 
-id3 = instaBot('nastaran._.tx','137811p28')
+id3 = instaBot('nastaran._.tx','*********')
 id3.login()
 #id3.follow_privetpags_an_idlist(100,"C:\\Users\\asus\\Desktop\\Instagram Bot\\sharif_follower.txt")
 id3.follow_people_in_suggestion_list(50)
@@ -597,7 +597,7 @@ id3.Quit()
 ######################################################################################################
 
 
-id2 = instaBot('bita._.18charkh','a137895')
+id2 = instaBot('bita._.18charkh','********')
 id2.login()
 id2.follow_people_in_suggestion_list(70)
 #id2.unfollow_who_desent_follow_back(50)
